@@ -1,0 +1,3 @@
+For given an integer n,the program determines if is an element of the Fibonacci sequence. 
+A Fibonacci sequence is one where every element is a sum of the previous two elements in the sequence.
+Starts with 0,1,1,2,3,5,8......
